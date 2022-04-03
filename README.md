@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=100&section=header&text=my%20ocean&fontSize=40)
+
 
 
 🛒 My items
