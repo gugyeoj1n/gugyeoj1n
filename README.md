@@ -10,8 +10,13 @@
 <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/>
 
 
-🐢 🐳 🦐
+<strong>💭 Studying</strong>
+◻ Machine Learning
+◻ Web Design
+◻ Algorithms
+<br>
 
+🐢 🐳 🦐
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=zriring)](https://solved.ac/zriring)
