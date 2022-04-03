@@ -10,10 +10,10 @@
 <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/>
 
 
-<strong>💭 Studying</strong>
-◻ Machine Learning
-◻ Web Design
-◻ Algorithms
+<strong>💭 Studying</strong></br>
+◻ Machine Learning<br>
+◻ Web Design<br>
+◻ Algorithms<br>
 <br>
 
 🐢 🐳 🦐
