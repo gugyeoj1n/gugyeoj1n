@@ -19,5 +19,8 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gugyeoj1n&border_radius=45&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 <br><br>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gugyeoj1n&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<br><br>
+
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=zriring)](https://solved.ac/zriring)
