@@ -18,7 +18,7 @@
 
 🐢 🐳 🦐
 <br><br><br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gugyeoj1n&border_radius=90&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gugyeoj1n&border_radius=45&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 <br><br><br>
 
 [![Solved.ac
