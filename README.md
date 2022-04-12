@@ -20,7 +20,6 @@
 <br><br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gugyeoj1n&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<br><br>
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=zriring)](https://solved.ac/zriring)
