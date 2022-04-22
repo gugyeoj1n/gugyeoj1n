@@ -15,8 +15,9 @@
 
 🐢 🐳 🦐
 <br><br>
+ <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/> https://velog.io/@gugyeoj1n<br>
+ <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gugyeoj1n&border_radius=45&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 <br><br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gugyeoj1n&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
