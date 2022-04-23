@@ -1,3 +1,4 @@
+<div align="center">
 <strong>🛒 Skills</strong>
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/><br>
@@ -24,3 +25,5 @@
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=zriring)](https://solved.ac/zriring)
+
+</div>
