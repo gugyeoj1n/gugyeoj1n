@@ -9,7 +9,7 @@
 
 🐢 🐳 🦐
 <br><br>
- <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/><br>https://velog.io/@gugyeoj1n<br>
+ <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/><br>https://velog.io/@gugyeoj1n<br><br>
  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/><br>https://www.instagram.com/gugyeoj1n/
 
 <br>
