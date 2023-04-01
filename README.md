@@ -1,6 +1,6 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:CCCCCC,100:BDBDFF&height=150&section=header&text=gugyeoj1n&fontSize=30&fontColor=F3F3F3" /><br>
-<h1>불쌍한 이 아이에게 미쯔를 기부해 주세요</h1>
+<h1>Hi</h1><br>
 <strong>🛹 skills I've studied 🛹</strong>
 <br><br>
 💡 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/><br>
