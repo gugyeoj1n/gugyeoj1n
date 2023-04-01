@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=230&section=header&text=gugyeoj1n&fontSize=70" /><br>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:CCCCCC,100:CCCCFF&height=150&section=header&text=gugyeoj1n&fontSize=70" /><br>
 <strong>🛹 skills I've studied 🛹</strong>
 <br><br>
 💡 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/><br>
