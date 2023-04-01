@@ -11,7 +11,7 @@
  <a href="https://www.instagram.com/gugyeoj1n/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a><br>
 <br>
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gugyeoj1n&layout=compact&theme=nord&exclude=Natural_Language_Processing)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gugyeoj1n&layout=compact&theme=nord&exclude_repo=Natural_Language_Processing)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=zriring)](https://solved.ac/zriring)
