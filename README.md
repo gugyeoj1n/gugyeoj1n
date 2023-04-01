@@ -1,6 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:CCCCCC,100:BDBDFF&height=150&section=header&text=gugyeoj1n
-          &fontSize=30&fontColor=F3F3F3" /><br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:CCCCCC,100:BDBDFF&height=150&section=header&text=gugyeoj1n&fontSize=30&fontColor=F3F3F3" /><br>
 <h1>불쌍한 이 아이에게 미쯔를 기부해 주세요</h1>
 <strong>🛹 skills I've studied 🛹</strong>
 <br><br>
