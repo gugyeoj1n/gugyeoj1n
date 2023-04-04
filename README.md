@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:CCCCCC,100:BDBDFF&height=150&section=header&text=gugyeoj1n&fontSize=30&fontColor=F3F3F3" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:CCCCCC,100:8900FF&height=150&section=header&text=gugyeoj1n&fontSize=30&fontColor=F3F3F3" />
 <h1>🐢 🐳 🦭 🦦</h1><br>
 <strong>🛹 skills I've studied 🛹</strong>
 <br><br><div>
