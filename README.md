@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:CCCCCC,100:8900FF&height=150&section=header&text=gugyeoj1n&fontSize=30&fontColor=F3F3F3" />
 <h1>🐢 🐳 🦭 🦦</h1>
- <h2>Game Developer<br>@JGM<br>🔫 <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=Gray"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/C%23-239120A?style=flat-square&logo=Csharp&logoColor=white"/> 🔫</h2><br>
+ <h2>Game Developer<br><h4>@JGM</h4><br>🔫 <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=Gray"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/C%23-239120A?style=flat-square&logo=Csharp&logoColor=white"/> 🔫</h2><br>
 <strong>🛹 skills I've studied 🛹</strong>
 <br><br>
 💡 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/> 💡<br>
