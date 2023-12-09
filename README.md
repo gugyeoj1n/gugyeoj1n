@@ -2,14 +2,14 @@
     gugyeoj1n
 
     
-    Stacks
+    Stacks 🐋
     
       Game Client    |  Unity, C#, Blender
       Game Server    |  C++, Photon, PlayFab
       Web            |  React.js, Node.js, MongoDB
       Algorithm      |  C++, Python
 
-    Contacts
+    Contacts 🦦
 
       Instagram      |  @gugyeoj1n
       Personal Blog  |  https://velog.io/@gugyeoj1n
