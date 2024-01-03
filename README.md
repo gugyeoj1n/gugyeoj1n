@@ -12,7 +12,8 @@
     Contacts 🦦
 
       Instagram      |  @gugyeoj1n
-      Personal Blog  |  https://velog.io/@gugyeoj1n
+      Tistory        |  https://gugyeoj1n.tistory.com
+      Velog          |  https://velog.io/@gugyeoj1n
       Mail           |  kwooj2788@gmail.com
 
     Games 🕹️
