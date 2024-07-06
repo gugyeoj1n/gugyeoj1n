@@ -4,7 +4,7 @@
     
     Stacks 🐋
     
-      Game Client    |  Unity, C# / Unreal Engine / Blender
+      Game Client    |  Unity / Unreal Engine / Blender
       Game Server    |  C++, Photon, PlayFab
       Web            |  React.js, Node.js, MongoDB
       Algorithm      |  C++, Python
