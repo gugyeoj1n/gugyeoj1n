@@ -20,6 +20,6 @@
 
       Coloriom       |  iOS (App Store)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gugyeoj1n&hide=stars,prs&rank_icon=github)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gugyeoj1n&hide=stars&rank_icon=github&card_width=400&theme=rose&line_height=24) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gugyeoj1n&layout=compact&card_width=400&theme=rose)
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=zriring)](https://solved.ac/zriring)
