@@ -1,21 +1,18 @@
+<div align=center>
 
-    gugyeoj1n
-
+<br>
     
-    Stacks 🐋
-    
-      Game Client    |  Unity / Unreal Engine / Blender
-      Game Server    |  C++, Photon, PlayFab
-      Web            |  React.js, Node.js, MongoDB
-      Algorithm      |  C++, Python
+[![My Skills](https://skillicons.dev/icons?i=cs,cpp,unity,unreal,blender,figma,&perline=6)](https://skillicons.dev)
 
-    Contacts 🦦
+<img src="https://github.com/user-attachments/assets/4fd1eb0f-d403-4378-9064-5075fffba35c">
 
-      Instagram      |  @gugyeoj1n
-      Tistory        |  https://gugyeoj1n.tistory.com
-      Velog          |  https://velog.io/@gugyeoj1n
-      Mail           |  kwooj2788@gmail.com
+<br>
 
-    Games 🕹️
+<br>
 
-      Coloriom       |  iOS (App Store)
+<br>
+
+<a href = "https://gugyeoj1n.tistory.com/"><img alt="Tistory" src ="https://img.shields.io/badge/Tistory-DD4B39.svg?&style=for-the-badge&logo=Tistory&logoColor=white"/>
+
+<a href = "https://www.instagram.com/gugyeoj1n/"><img alt="Instagram" src ="https://img.shields.io/badge/Instagram-E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
+</div>
