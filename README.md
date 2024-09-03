@@ -19,8 +19,3 @@
     Games 🕹️
 
       Coloriom       |  iOS (App Store)
-
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=gugyeoj1n&hide=stars&rank_icon=github&card_width=400&theme=rose&line_height=25"/>
-    <img src="http://mazassumnida.wtf/api/generate_badge?boj=zriring"/>
-</div>
