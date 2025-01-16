@@ -1,19 +1,5 @@
 <div align=center>
 
-### GAME DEVELOPER
-### gugyeoj1n
-
-<br>
-
-<br>
-
-
-<img src="https://github.com/user-attachments/assets/4fd1eb0f-d403-4378-9064-5075fffba35c">
-
-<br>
-
-<br>
-
 ### 🛠️ Skills 🛠️
 
 <br>
